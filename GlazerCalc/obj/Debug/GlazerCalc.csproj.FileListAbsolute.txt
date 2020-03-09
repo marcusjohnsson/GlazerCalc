@@ -1,0 +1,5 @@
+/Users/marcus/Projects/GlazerCalc/GlazerCalc/bin/Debug/GlazerCalc.exe
+/Users/marcus/Projects/GlazerCalc/GlazerCalc/bin/Debug/GlazerCalc.pdb
+/Users/marcus/Projects/GlazerCalc/GlazerCalc/obj/Debug/GlazerCalc.csprojAssemblyReference.cache
+/Users/marcus/Projects/GlazerCalc/GlazerCalc/obj/Debug/GlazerCalc.exe
+/Users/marcus/Projects/GlazerCalc/GlazerCalc/obj/Debug/GlazerCalc.pdb
