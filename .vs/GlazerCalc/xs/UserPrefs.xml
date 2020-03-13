@@ -1,9 +1,6 @@
 ﻿<Properties StartupConfiguration="{D2836CC7-F4DC-4B6E-8B23-64451DBEDAEF}|Default">
   <MonoDevelop.Ide.ItemProperties.GlazerCalc PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GlazerCalc/GlazerCalc.cs">
-    <Files>
-      <File FileName="GlazerCalc/GlazerCalc.cs" Line="43" Column="20" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
